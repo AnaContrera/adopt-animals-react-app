@@ -1,0 +1,31 @@
+.itemcatalogo
+{
+ 
+  width: 237px;
+  margin: 10px;
+  border-color: grey;
+  border:2px;
+  
+}
+#itemcatalogo:hover
+{size: 30%;
+  transition-property: all,; 
+}
+#verficha
+{
+  background-color: rgb(11, 94, 89);
+  
+}
+#verficha:hover{ background-color: #1fb16d;}
+
+#listacatalogo {
+    flex-flow: row wrap;
+    display: grid;
+    grid-gap: 15px 10px;
+ 
+ }
+ 
+ #imagenmediana{
+   width: 200px; height: 200px;
+   
+ }

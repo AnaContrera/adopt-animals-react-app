@@ -1,0 +1,178 @@
+#Titulo
+{
+  color: grey;
+  background-color: #b5f5d7;
+}
+.App1
+{
+  color: grey;
+  background-color: #b5f5d7;
+}
+#navbarcolor{
+  background-color: #b5f5d7;
+  opacity: 1;
+
+}
+
+
+#botonnav {
+  background-color: rgb(11, 94, 89);
+  color: white;
+}
+#botonnav:hover{ background-color: #1fb16d;
+  transition: all 1s ease-out;
+}
+
+body
+{
+  color: grey;
+  background-color: #b5f5d7;
+}
+
+#bodycatalogo {
+  background-color: #b5f5d7;
+}
+h5
+{
+  color: grey;
+}
+
+
+#Volverainicio {
+      color:black;
+}
+#Volverainicio:hover{ background-color: #1fb16d;}
+.logo {
+  align-content: flex-end;
+}
+#navbarcolor{
+  background-color: #b5f5d7;
+  opacity: 1;
+
+}
+
+#botonnav {
+  background-color: rgb(11, 94, 89);
+  color: white;
+}
+#botonnav:hover{ background-color: #1fb16d;
+  transition: all 1s ease-out;
+}
+
+#IralCatalogo {
+  align-content: flex-end;
+  background-color: rgb(11, 94, 89);
+  color: white;
+ position: absolute;
+ float: left;
+ position:relative;
+  left:50%;
+  top:80%;
+  opacity: 1;
+  
+  } 
+  #IralCatalogo:hover{ background-color: #1fb16d;}
+
+
+
+#formulariobuscador {
+  align-content: left;
+  display: flex;
+}
+#imagenpequena {
+  width: 100px; height: 100px;
+  border-color: grey; 
+  border: 5px; 
+  
+}
+
+#buscadorycatalogo
+{ 
+  margin-left: 10px;
+  margin-right: 5px;
+  width: 100%;
+  padding-right: 0px;
+  height: 100%;
+ 
+}
+#Buscar {background-color: rgb(11, 94, 89);
+color: white; }
+#Buscar:hover{ background-color: #1fb16d;}
+
+
+#Adoptar {
+  background-color: rgb(11, 94, 89);
+  color: white;
+}
+#Adoptar:hover{ background-color: #1fb16d;}
+#guardarcomofavorito {
+  background-color: rgb(11, 94, 89);
+  color: white;
+}
+#guardarcomofavorito:hover{ background-color: #1fb16d;}
+#volverainicio {
+  background-color: rgb(11, 94, 89);
+  color: white;
+}
+#volverainicio:hover{ background-color: #1fb16d;}
+.Fichas {
+  background-color: #b5f5d7;
+  margin-left: 20px;
+}
+#bodyficha {
+  background-color: #b5f5d7;
+  
+}
+
+
+
+#listacatalogo {
+  padding-left: 40px;
+
+}
+
+
+
+#Registro {
+  vertical-align: middle;
+}
+
+#Registrar {
+  background-color: rgb(11, 94, 89);
+  color: white;
+}
+#Registrar:hover{ background-color: #1fb16d;}
+
+#forms {
+  background-color: #b5f5d7;
+  overflow: hidden;
+  width: 100%;
+  float: left;
+  height: 100%;
+  } 
+#form1  {
+float: left;
+position: relative;
+text-align: left;
+width: 30%;
+height: 100%;
+margin-left: 28.359;
+margin-right: 150px;
+ margin-left: 10px;
+padding-left: 0px;
+
+
+}
+  #form2  {
+float: left;
+position: relative;
+text-align: left;
+width: 49%;
+height: 100%;
+margin-left: 0px;
+margin-right: 0px;
+} 
+
+#rowblog {
+  margin-left: 2px;
+} 

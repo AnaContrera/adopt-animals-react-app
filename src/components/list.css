@@ -1,0 +1,44 @@
+#formulariobuscador {
+    align-content: left;
+    display: flex;
+  };
+  
+  #buscadorycatalogo
+  { 
+    margin-left: 10px;
+    margin-right: 5px;
+    width: 100%;
+    padding-right: 0px;
+    height: 100%;
+   
+  };
+  #Buscar {background-color: rgb(11, 94, 89);
+  color: white; };
+  #Buscar:hover{ background-color: #1fb16d;};
+  #listacatalogo {
+     flex-flow: row wrap;
+     display: grid;
+     grid-gap: 15px 10px;
+  
+  };
+  #imagenpequena {
+    width: 100px; height: 100px;
+    border-color: grey; 
+    border: 5px; 
+    
+  };
+  
+  #itemcatalogo
+  {
+    width: 18rem;
+    width: 237px;
+    padding: 5px;
+    margin: 5px;
+    border-color: grey;
+    border:4px;
+    
+  };
+  #itemcatalogo:hover
+  {size: 30%;
+    transition-property: all,; 
+  };

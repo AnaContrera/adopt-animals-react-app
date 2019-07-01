@@ -1,0 +1,16 @@
+.fotoinicio
+{     
+    height: 100%; 
+    width: 100%; 
+    top: 0.5px; left: 0px;
+}; 
+#background{
+line-height: 0px;
+ position: fixed; 
+ 
+
+ margin: 0px; padding: 25px;
+  height: 100%; 
+  width: 100%; 
+  
+  };

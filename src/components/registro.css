@@ -1,0 +1,14 @@
+#form1 {
+    align-content: left;
+    display: absolute;
+   
+    margin: 10px;
+  };
+  #form2 {
+ 
+    
+    flex-flow: row wrap;
+     display: grid;
+    align-content: right;
+ 
+ };
