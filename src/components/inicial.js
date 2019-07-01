@@ -16,8 +16,6 @@ class Inicial extends React.Component {
          
     <img src="imagenes/fotoinicio.JPG" className="fotoinicio"/>
     
-          <br></br>
-      
      </div>
     
   

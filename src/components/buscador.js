@@ -6,30 +6,7 @@ class Buscador extends React.Component {
     super(props);
     
   }
-  filtroCategoríaChange = (event) => {
-    this.setState({ Categoría: event.target.value });
-  }
-  filtroSexoChange = (event) => {
-    this.setState({ Sexo: event.target.value });
-  }
-  filtroFechadenacimientoChange = (event) => {
-    this.setState({ Fechadenacimiento: event.target.value });
-  }
-  filtroRazaChange = (event) => {
-    this.setState({ Raza: event.target.value });
-  }
-  filtroBarrioChange = (event) => {
-    this.setState({ Barrio: event.target.value });
-  }
- handleBuscar= (event) => {event.preventDefault();
-  this.setState({ 
- Categoría:this.state.Categoría,
- Sexo:this.state.Sexo,
- Fechadenacimiento:this.state.Fechadenacimiento,
- Raza:this.state.Raza,
- Barrio:this.state.Barrio,
-  });
-}
+ 
   
  
 render(){

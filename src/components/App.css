@@ -3,34 +3,8 @@
   color: grey;
   background-color: #b5f5d7;
 }
-.App1
+.App
 {
-  color: grey;
-  background-color: #b5f5d7;
-}
-#navbarcolor{
-  background-color: #b5f5d7;
-  opacity: 1;
-
-}
-#imagenpequena {
-  width: 100px; height: 100px;
-  border-color: grey; 
-  border: 5px; 
-  
-};
-
-#botonnav {
-  background-color: rgb(11, 94, 89);
-  color: white;
-}
-#botonnav:hover{ background-color: #1fb16d;
-  transition: all 1s ease-out;
-}
-
-body
-{
-  color: grey;
   background-color: #b5f5d7;
 }
 
@@ -50,20 +24,15 @@ h5
 .logo {
   align-content: flex-end;
 }
-#navbarcolor{
-  background-color: #b5f5d7;
-  opacity: 1;
 
-}
+.fotoinicio
+{
 
-#botonnav {
-  background-color: rgb(11, 94, 89);
-  color: white;
-}
-#botonnav:hover{ background-color: #1fb16d;
-  transition: all 1s ease-out;
-}
+width:100%;
+height:80%;
+float: left;
 
+} 
 #IralCatalogo {
   align-content: flex-end;
   background-color: rgb(11, 94, 89);
@@ -80,30 +49,12 @@ h5
 
 
 
-#formulariobuscador {
-  align-content: left;
-  display: flex;
-}
-#imagenpequena {
-  width: 100px; height: 100px;
-  border-color: grey; 
-  border: 5px; 
+
+
+#imagenmediana{
+  width: 200px; height: 200px;
   
 }
-
-#buscadorycatalogo
-{ 
-  margin-left: 10px;
-  margin-right: 5px;
-  width: 100%;
-  padding-right: 0px;
-  height: 100%;
- 
-}
-#Buscar {background-color: rgb(11, 94, 89);
-color: white; }
-#Buscar:hover{ background-color: #1fb16d;}
-
 
 #Adoptar {
   background-color: rgb(11, 94, 89);
